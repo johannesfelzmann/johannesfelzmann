@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @johannesfelzmann, studying computer science at the technical university of vienna.
+- 👀 I’m interested in all sorts algorithm and data structures, also I’m a big fan of theoretical computer science and mathematics.
+- 🌱 I’m currently learning some new frameworks and programming languages.
